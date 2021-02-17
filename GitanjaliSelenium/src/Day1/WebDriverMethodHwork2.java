@@ -1,5 +1,5 @@
 
-//Existing file modified 
+// Comment added
 package Day1;
 
 import static org.testng.Assert.assertEquals;
@@ -13,7 +13,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.support.ui.Select;
 import org.testng.Assert;
 
-public class WebDriverMethodHwork {
+public class WebDriverMethodHwork2 {
 
 	public static void main(String[] args) throws InterruptedException {
 		// TODO Auto-generated method stub
